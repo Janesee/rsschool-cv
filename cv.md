@@ -14,7 +14,7 @@ saw passion in this. So, I decided to devote all my time to it.
    + time management
    + the desire to learn new things
    + assiduity
-
+---
 ## Skills
 - HTML
 - CSS
@@ -27,9 +27,9 @@ saw passion in this. So, I decided to devote all my time to it.
 - Editors 
    * VSCode
    * IntelliJ IDEA
-
+---
 ## Code example
-```javascript
+```
 const CODcharacter = {
     health: 400,
     armor: 100,
@@ -42,6 +42,7 @@ const janese = Object.create(CODcharacter);
 console.log (janese.armor);
 janese.sayHello();
 ```
+---
 ## Experience
 not yet
 ## Education
@@ -52,5 +53,6 @@ not yet
    * JavaRush
    * Udemy: The Complete JavaScript Course 2022 (in progress)
    * CS50 lectures
+---
 ## English
 [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): A2
