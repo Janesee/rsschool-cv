@@ -14,6 +14,7 @@ saw passion in this. So, I decided to devote all my time to it.
    + time management
    + the desire to learn new things
    + assiduity
+
 ## Skills
 - HTML
 - CSS
@@ -26,6 +27,7 @@ saw passion in this. So, I decided to devote all my time to it.
 - Editors 
    * VSCode
    * IntelliJ IDEA
+
 ## Code example
 ```javascript
 const CODcharacter = {
