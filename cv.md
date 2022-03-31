@@ -5,6 +5,7 @@
 - E-mail: gbaburina0@gmail.com
 - Telegram: [EugeniaBaburina](https://t.me/EugeniaBaburina)
 - GitHub: [Janesee](https://github.com/Janesee)
+- Discord: [Jane](https://discordapp.com/users/481051059771539466/)
 ## About Me
 
 Currently, taken a break from studying at the university because, first of all, I want to learn front-end development and grow in that direction, 
@@ -45,7 +46,7 @@ not yet
 - University: 2020-2022 Incomplete Saint Petersburg Electrotechnical University "LETI"
    * Faculty of Computer Technology and Informatics
 - Courses
-   * Stepik: HTML/CSS
+   * Stepik: HTML/CSS, JavaScript
    * JavaRush
    * Udemy: The Complete JavaScript Course 2022 (in progress)
    * CS50 lectures
