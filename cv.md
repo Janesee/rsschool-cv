@@ -6,7 +6,6 @@
 - Telegram: [EugeniaBaburina](https://t.me/EugeniaBaburina)
 - GitHub: [Janesee](https://github.com/Janesee)
 - Discord: [Jane](https://discordapp.com/users/481051059771539466/)
-
 ## About Me
 Currently, taken a break from studying at the university because, first of all, I want to learn front-end development and grow in that direction, 
 saw passion in this. So, I decided to devote all my time to it.
@@ -14,7 +13,6 @@ saw passion in this. So, I decided to devote all my time to it.
 * time management
 * the desire to learn new things
 * assiduity
-
 ## Skills
 - HTML
 - CSS
@@ -25,7 +23,6 @@ saw passion in this. So, I decided to devote all my time to it.
 - Git/GitHub
 - Figma
 - Editors: VSCode, IntelliJ IDEA
-
 ## Code example
 ```JavaScript
 const CODcharacter = {
@@ -40,7 +37,6 @@ const janese = Object.create(CODcharacter);
 console.log (janese.armor);
 janese.sayHello();
 ```
-
 ## Experience
 not yet
 ## Education
@@ -51,6 +47,5 @@ not yet
    * JavaRush
    * Udemy: The Complete JavaScript Course 2022 (in progress)
    * CS50 lectures
-
 ## English
 [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): A2
