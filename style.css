@@ -1,0 +1,171 @@
+/*reset*/
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none; }
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+/*--------------------*/
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #383838;
+    background-color:rgb(218, 218, 218)
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.inner {
+   display: flex;
+   justify-content: space-between; 
+   padding: 50px;
+   background-color: #fff;
+}
+
+.profile {
+    width: 250px;
+    border-radius: 125px; 
+    border: 15px solid #fff;
+
+    margin: 0 auto 50px;
+}
+
+.left {
+    padding: 50px;
+    background: rgb(202, 202, 202);
+    width: 350px;
+}
+
+.name {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.adressPhone {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.discordImg {
+    max-width: 28px;
+}
+
+.githubImg {
+    max-width: 28px;
+}
+
+.contactsImg {
+    margin: 20px 50px;
+    max-width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    color: #202020;
+}
+.aboutMeText {
+    text-align: justify
+
+}
+
+.line {
+    width: 250px;
+    height: 0px;
+    border: 1px solid #383838;
+    margin-bottom: 10px;
+}
+
+.line2 {
+    width: 450px;
+    height: 0px;
+    border: 1px solid #afafaf;
+    margin-bottom: 10px;
+}
+
+.smallHeader {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+li {
+    padding-left: 15px;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.right {
+    width: 700px;
+    padding: 50px 50px 50px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.education {
+    padding-bottom: 20px;
+}
+
+.university {
+    padding-bottom: 20px;
+}
+
+.header3 {
+    font-style: italic;
+    color: #494949;
+}
+
+.skills_inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.skills_inner div {
+   padding: 10px; 
+}
+
